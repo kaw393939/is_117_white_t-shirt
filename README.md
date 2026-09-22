@@ -18,6 +18,10 @@ The framework: **persuasion shapes the response; archetypes shape the meaning; v
 - Add a chapter by creating another `.md` file with the same front matter, then link it from the contents.
 - Read `EDITORIAL.md` before expanding the manuscript.
 
+## How the book is made
+
+All work runs through GitHub issues, branches, atomic commits, pull requests, and deterministic verification, organized by a lightweight SDLC. See [PROJECT.md](PROJECT.md) for the full workflow, and [CONTRIBUTING.md](CONTRIBUTING.md) for the partner working agreements.
+
 All book prose lives in Markdown. `docs/_layouts/book.html` supplies the shared page layout; `docs/assets/book.css` supplies its appearance. Jekyll turns the Markdown into ordinary HTML pages. No database, frontend framework, or AI API is needed.
 
 ## Publishing
