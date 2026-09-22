@@ -45,4 +45,6 @@ The through-line: **meaningful structure is the accessibility strategy, the sear
 
 Build a one-product storefront for our shirt and every chapter reports for duty. The hero expresses the archetype. The copy persuades without pressuring. The palette obeys the brand guide's tokens. The HTML is semantic, the CSS carries the visual language, and a partner can review the whole thing in a pull request — because a storefront, like this book, is something a team can build.
 
+See it working: the [Standard Issue storefront mockup](../examples/storefront.md) is a complete, invented one-product page. Find each element from the anatomy above — the hero, the facts, the reassurance, the FAQ, the footer — and notice what the copy does *not* do: no timers, no pressure, no invented reviews.
+
 **A question to carry out of the book:** the shirt was never the subject. Pick your own ordinary object. What story will you teach it to tell?
