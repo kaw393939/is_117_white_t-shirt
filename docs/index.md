@@ -27,3 +27,13 @@ Think of AI's first draft as a block of material. You decide what the work is be
 7. [From a story to a screen](chapters/07-the-web.md) — Web presence, page vocabulary, and the material of the web.
 
 Keep the [vocabulary](vocabulary.md) nearby. Follow the [source shelf](sources.md) back to the people, objects, and documentation behind the ideas.
+
+## Worked examples
+
+Three invented brands answer the same brief — the same fictional shirt — three different ways:
+
+- [Standard Issue](examples/standard-issue.md) — the dependable basic, told with Swiss restraint.
+- [Drift & Thread](examples/drift-thread.md) — the travel companion, told with warmth.
+- [Blank Canvas Co.](examples/blank-canvas.md) — the class clown, told at full volume.
+
+See them diverge side by side in [one brief, three answers](examples/comparison.md), then take the [blank dossier](examples/dossier-template.md) and build the fourth brand — yours.

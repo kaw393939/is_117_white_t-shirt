@@ -47,4 +47,6 @@ Build a one-product storefront for our shirt and every chapter reports for duty.
 
 See it working: the [Standard Issue storefront mockup](../examples/storefront.md) is a complete, invented one-product page. Find each element from the anatomy above — the hero, the facts, the reassurance, the FAQ, the footer — and notice what the copy does *not* do: no timers, no pressure, no invented reviews.
 
+Then watch the same shirt become two other products: the [Drift & Thread](../examples/drift-thread-storefront.md) and [Blank Canvas Co.](../examples/blank-canvas-storefront.md) storefronts run the identical facts through different archetypes and visual languages. [One brief, three answers](../examples/comparison.md) lines them up side by side — and the [blank dossier](../examples/dossier-template.md) is the same exercise, emptied out and waiting for your own archetype.
+
 **A question to carry out of the book:** the shirt was never the subject. Pick your own ordinary object. What story will you teach it to tell?
