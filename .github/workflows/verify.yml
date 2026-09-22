@@ -1,0 +1,67 @@
+name: Verify book
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Verify required book files
+        shell: bash
+        run: |
+          set -e
+          required=(
+            "docs/_config.yml"
+            "docs/_layouts/book.html"
+            "docs/assets/book.css"
+            "docs/index.md"
+            "docs/vocabulary.md"
+            "docs/sources.md"
+            "docs/chapters/01-the-shirt.md"
+            "docs/chapters/02-persuasion.md"
+            "docs/chapters/03-archetypes.md"
+            "docs/chapters/04-visual-language.md"
+            "docs/chapters/05-sculpting.md"
+            "docs/chapters/06-brand-guide.md"
+            "docs/chapters/07-the-web.md"
+          )
+          score=0
+          total=${#required[@]}
+          echo "## Book verification" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          for file in "${required[@]}"; do
+            if [[ -s "$file" ]]; then
+              echo "✅ $file" >> "$GITHUB_STEP_SUMMARY"
+              score=$((score+1))
+            else
+              echo "❌ $file" >> "$GITHUB_STEP_SUMMARY"
+            fi
+          done
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "**Required files present: $score / $total**" >> "$GITHUB_STEP_SUMMARY"
+          if [[ "$score" -ne "$total" ]]; then
+            echo "One or more required files are missing or empty."
+            exit 1
+          fi
+
+      - name: Check for issue references in commit history
+        shell: bash
+        run: |
+          refs=$(git log --pretty=format:%s | grep -E '#[0-9]+' | wc -l || true)
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "## Traceability" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          if [[ "$refs" -ge 1 ]]; then
+            echo "✅ $refs commit message(s) reference GitHub issue numbers." >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "⚠️ No commit messages reference issues yet. Use messages like: Add thing #N" >> "$GITHUB_STEP_SUMMARY"
+          fi
