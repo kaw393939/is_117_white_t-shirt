@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | escape }} · {{ site.title | escape }}</title>
+  <meta name="description" content="{{ site.description | escape }}">
+  <link rel="stylesheet" href="{{ '/assets/book.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip" href="#reading">Skip to reading</a>
+  <header class="masthead"><a href="{{ '/' | relative_url }}">{{ site.title }}</a><span>An open manuscript</span></header>
+  <div class="book">
+    <nav class="contents" aria-label="Book contents">
+      <p class="nav-label">Contents</p>
+      {% assign chapters = site.pages | where_exp: 'item', 'item.order != nil' | sort: 'order' %}
+      <ol>
+      {% for chapter in chapters %}
+        <li><a href="{{ chapter.url | relative_url }}"{% if page.url == chapter.url %} aria-current="page"{% endif %}>{{ chapter.title | escape }}</a></li>
+      {% endfor %}
+      </ol>
+    </nav>
+    <main id="reading" tabindex="-1">
+      <article>{{ content }}</article>
+      <nav class="page-turn" aria-label="Continue reading">
+      {% for chapter in chapters %}
+        {% if chapter.url == page.url %}
+          {% unless forloop.first %}{% assign previous_index = forloop.index0 | minus: 1 %}{% assign previous = chapters[previous_index] %}<a href="{{ previous.url | relative_url }}"><small>Previous</small>{{ previous.title | escape }}</a>{% endunless %}
+          {% unless forloop.last %}{% assign next_index = forloop.index0 | plus: 1 %}{% assign next = chapters[next_index] %}<a href="{{ next.url | relative_url }}"><small>Next</small>{{ next.title | escape }}</a>{% endunless %}
+        {% endif %}
+      {% endfor %}
+      </nav>
+    </main>
+  </div>
+</body>
+</html>

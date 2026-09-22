@@ -1,0 +1,17 @@
+title: The Plain White T-Shirt
+description: A book about persuasion, identity, visual language, and sculpting with AI.
+url: https://kaw393939.github.io
+baseurl: /is_117_white_t-shirt
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: book
+exclude:
+  - README.md
