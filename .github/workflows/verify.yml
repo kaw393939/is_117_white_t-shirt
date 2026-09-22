@@ -33,6 +33,13 @@ jobs:
             "docs/chapters/05-sculpting.md"
             "docs/chapters/06-brand-guide.md"
             "docs/chapters/07-the-web.md"
+            "docs/examples/standard-issue.md"
+            "docs/examples/drift-thread.md"
+            "docs/examples/drift-thread-storefront.md"
+            "docs/examples/blank-canvas.md"
+            "docs/examples/blank-canvas-storefront.md"
+            "docs/examples/comparison.md"
+            "docs/examples/dossier-template.md"
           )
           score=0
           total=${#required[@]}
