@@ -17,6 +17,21 @@ Stories are selected for what they let the reader notice or decide. They are not
 | ST-011 | A campaign gets attention but its landing page breaks the promise. | Invented professional scenario | Advertising-to-experience continuity. | Ready as invented; #134 | Chapter 23 |
 | ST-012 | A shop celebrates revenue while acquisition and fulfillment consume margin. | Invented business scenario | Analytics and business judgment. | Ready as invented; #135 | Chapter 24 |
 
+## Additional chapter openings
+
+| ID | Story candidate | Type | Teaching use | Owner/status |
+| --- | --- | --- | --- | --- |
+| ST-013 | A director cannot explain an impressive generated result. | Invented | Difference between execution and judgment | #75; scenario only |
+| ST-014 | Two expert lenses give competing advice about one checkout. | Invented comparison informed by sources | Tradeoffs without impersonating the experts | #102/#76; source principles pending |
+| ST-015 | Two shoppers like one graphic but face different practical constraints. | Invented | Personas based on circumstances | #79/#104; not interview data |
+| ST-016 | A secondary action attracts more attention than the intended next step. | Invented | Roles of contrast and hierarchy | #83/#111; demonstration pending |
+| ST-017 | Rearrangement makes the same content easier or harder to navigate. | Invented | Grid and grouping choices | #84/#112; observed effects pending |
+| ST-018 | A historical object complicates a familiar style label. | Documented artifact candidate | Historical interpretation and counterexamples | #39/#86; object selection pending |
+| ST-019 | A collaborator interprets an ambiguous guide differently. | Invented unless an actual handoff is recorded | Make constraints executable | #88/#65; demonstration pending |
+| ST-020 | A return follows a completed purchase. | Invented | Journey extends beyond conversion | #89/#114; not a customer report |
+| ST-021 | A page looks correct but fails a keyboard or checkout test. | Planned actual demonstration | Verification beyond a screenshot | #94/#136/#138; results pending |
+| ST-022 | A shopper discovers a product away from the homepage. | Invented with documented historical context | Changes in discovery and distribution | #95/#107; source timeline pending |
+
 ## Story handling
 
 For a documented story, record the source’s protagonist, situation, decision, consequence, period and interpretation. For a personal story, ask the author for the account and preserve uncertainty. For an invented story, identify it at the point of use and keep fictional inputs consistent with the product record.
