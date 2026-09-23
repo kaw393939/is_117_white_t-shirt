@@ -51,6 +51,16 @@ The [visual-fundamentals research dossier](editorial/research/visual-fundamental
 
 The [customer-experience dossier](editorial/research/customer-experience.md) connects these sources to explicitly hypothetical personas, a synthetic funnel and planned observation of the reference shop. It contains no customer-research findings.
 
+## Networks before the Web
+
+- [Claude Shannon: A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) — corrected reprint of the original 1948 paper; the engineering meaning of information is not the same as a message's cultural meaning.
+- [Paul Baran: On Distributed Communications, I](https://www.rand.org/pubs/research_memoranda/RM3420.html) and [Baran and Sharla Boehm: Volume II](https://www.rand.org/pubs/research_memoranda/RM3103.html) — original research and its institutional records, preserving the distinction between a proposal and its simulation.
+- [NPL: Donald Davies](https://www.npl.co.uk/about-us/history/famous/donald-davies) — institutional history and further resources on packet switching.
+- [Internet Society: A Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) — a participant-authored retrospective, not the only possible historical perspective.
+- [Jon Postel: NCP/TCP Transition Plan](https://www.rfc-editor.org/rfc/rfc801.html) — a contemporary document about coordinating adoption, not just inventing protocols.
+
+The [network-history dossier](editorial/research/network-history.md) connects the sources to fictional shop requests and identifies technical and historical safeguards for the diagrams. It also records the pending passage review for Hafner and Lyon's *Where Wizards Stay Up Late*.
+
 ## The web and design systems
 
 - [USWDS: Design tokens](https://designsystem.digital.gov/design-tokens/) — documentation from the system's maintainers.
