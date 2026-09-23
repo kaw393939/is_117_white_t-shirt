@@ -31,6 +31,16 @@ These institutional essays are secondary interpretation, not original Bauhaus or
 
 **Suggestions for further primary-source research:** follow collection links to actual posters, publications, and design objects. Record the maker, date, title, collection identifier, and stable record URL. Look for contemporary manifestos and first-person accounts; do not invent a quotation or object to fill a gap.
 
+## Typography, color and proportion
+
+- [Matthew Butterick: Summary of key rules](https://practicaltypography.com/summary-of-key-rules.html) — practitioner guidance for examining type, spacing and line length together, not universal laws.
+- [Gary Hustwit: Helvetica](https://www.hustwit.com/helvetica) — the filmmaker's record and access starting point for the documentary used alongside the book.
+- [Albers Foundation: Interaction of Color](https://www.albersfoundation.org/alberses/teaching/interaction-of-color) — institutional interpretation of Albers's contextual approach; distinguish it from the complete original book.
+- [Euclid: Book VI, Definition 3](https://mathcs.clarku.edu/~djoyce/elements/bookVI/defVI3.html) — a mathematical definition in a modern online edition, not proof that a proportion guarantees beauty.
+- [April Greiman's account at MoMA](https://www.moma.org/audio/playlist/297/4835) — first-person retrospective testimony about exploring early digital design tools.
+
+The [visual-fundamentals research dossier](editorial/research/visual-fundamentals.md) connects these sources to original shirt comparisons, collection records, accessibility criteria and unresolved reproduction permissions.
+
 ## The web and design systems
 
 - [USWDS: Design tokens](https://designsystem.digital.gov/design-tokens/) — documentation from the system's maintainers.
