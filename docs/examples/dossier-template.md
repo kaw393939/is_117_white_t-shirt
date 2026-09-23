@@ -13,6 +13,8 @@ order: 24
 3. **Everything you invent, label invented.**
 4. **The sequence is the skill.** Archetype first, voice second, visuals third, copy fourth, page last. Each layer must be defensible in terms of the one above it.
 
+The [shared product record](../editorial/product-record.md) gives the complete fictional facts and care instructions. A white shirt may carry an identifier on its front, back, sleeve or hem. If you change its markings, call the exercise a product variation and explain the placement, scale and technique. For a presentation-only comparison, keep the garment itself fixed.
+
 ## Archetype card
 
 - **Primary archetype:** [name it — and why this shirt earns it]

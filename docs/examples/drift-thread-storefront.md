@@ -59,7 +59,7 @@ layout: raw
   <dl>
     <dt>Fabric</dt><dd>100% cotton, 180 gsm (invented specification for this example)</dd>
     <dt>Fit</dt><dd>Straight cut, crew neck, pre-shrunk</dd>
-    <dt>Care</dt><dd>Machine wash cold, line dry or tumble low — sink-tested</dd>
+    <dt>Care</dt><dd>Machine wash cold, line dry or tumble low</dd>
     <dt>Origin</dt><dd>Cut and sewn in Portugal (invented for this example)</dd>
   </dl>
 </section>

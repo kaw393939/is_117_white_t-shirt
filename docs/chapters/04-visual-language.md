@@ -34,7 +34,7 @@ The question is never "which style?" It is: **what does this element's behavior 
 
 ## The shirt, set two ways
 
-Return to our invented brands. **Standard Issue** speaks fluent Swiss: one typeface, generous margins, a grid you can feel but not see. Its restraint *is* the message — nothing to decide, nothing to perform. **Blank Riot** speaks postmodern: overlapping type, images cropped mid-gesture, a layout that argues with itself. Its disorder *is* the message — we refuse to be tidied.
+Return to our invented brands. **Standard Issue** speaks fluent Swiss: one typeface, generous margins, a grid you can feel but not see. Its restraint *is* the message — nothing to decide, nothing to perform. **Blank Canvas Co.** speaks postmodern: overlapping type, images cropped mid-gesture, a layout that argues with itself. Its disorder *is* the message — the ordinary shirt refuses to be tidied into a solemn product story.
 
 Same shirt. Two visual dialects, each borrowed from a real design tradition, each doing persuasive work before a word is read.
 
