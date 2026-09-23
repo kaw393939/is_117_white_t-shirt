@@ -36,7 +36,7 @@ Consider three invented presentations of the same shirt. The brands are made up;
 
 **Drift & Thread** presents the same shirt as a travel companion: pack light, wash it in a sink, wear it everywhere. The persuasion leans on possibility. The archetype is the explorer. The photography is warm, creased, and halfway out the door.
 
-**Blank Riot** presents the shirt as a refusal: no logo, no slogan, nothing to buy into. The persuasion leans on belonging to the small group that gets it. The archetype is the rebel. The visuals argue — clashing type, rough crops, deliberate noise.
+**Blank Canvas Co.** presents the shirt as a joke about ordinary products: the garment is serious, while the page refuses to take the transaction too seriously. The persuasion leans on recognition and amusement. The archetype is the Jester. The visuals argue — clashing type, rough crops, deliberate noise.
 
 Same fiber. Same cut. Three different invitations to say yes.
 
