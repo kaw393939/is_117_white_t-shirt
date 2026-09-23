@@ -27,6 +27,10 @@ Use original sources where available. Distinguish an author's account of a theor
 
 Hypothetical brands and prompts should be explicitly invented. A change in presentation never establishes a new product fact.
 
-## Scope for now
+## Scope and production passes
 
-A book skeleton and working reading site. Seven chapter outlines establish a path from meaning to implementation. The existing book is background; expand and improve one chapter at a time with the author. Keep schedules, grading, and classroom mechanics out of the book.
+The current reading site contains seven short chapters and three fictional brand examples. The agreed expansion is a six-part, 24-chapter field guide connecting visual and historical literacy, AI direction, customer experience, web technology, a complete ecommerce prototype, and business measurement. The [editorial prospectus](docs/editorial/prospectus.md) is the first-layer structural draft; it does not imply that the expanded manuscript has been written or its research completed.
+
+Develop the work through [explicit editorial passes](docs/editorial/production-plan.md), with [bounded issue ownership](docs/editorial/issue-map.md). Keep schedules, grading, and classroom mechanics out of the book. Preserve current chapter URLs until the migration plan is implemented.
+
+The shirt remains white, but logos, imagery, typography and identifiers may occupy the front, back, sleeve, hem or another defensible placement. Distinguish changing a product from changing only its presentation. Choices should be explainable and open to challenge; intuition and experimentation may precede explanation.
