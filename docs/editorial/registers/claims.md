@@ -17,6 +17,18 @@ Status values: `candidate`, `inspected`, `supports claim`, `needs corroboration`
 | CL-011 | Impressions, clicks, CTR, CPC, conversion rate and acquisition cost have distinct definitions and denominators. | Proposed Chapters 23/24 | Official platform/analytics definitions | Candidate | #108; use dated sources |
 | CL-012 | A scripted end-to-end test demonstrates a path, not general usability. | Proposed Chapter 21/Appendix G | Testing practice | Official tool/accessibility docs; candidate | #123/#136; document limits |
 
+## Inspected brand-source claims
+
+Checked 2026-09-23; exact source URLs, locators, source types and limitations appear in the [brand dossier](../research/brand-stories.md). These entries support attributed statements, not causal claims about branding success.
+
+| ID | Bounded claim | Evidence/status | Source locator | Owner |
+| --- | --- | --- | --- | --- |
+| CL-013 | The publisher identifies Mark and Pearson’s book as first edition, copyright 2001, ISBN 9780071364157. | Publisher record; supports metadata | BS-01, title/ISBN and contents | #101 |
+| CL-014 | Starbucks attributes its name to Moby-Dick. | Company account; supports attribution | BS-03, opening history paragraph | #101 |
+| CL-015 | Starbucks relates logo revisions to scale/use and identifies a wordless 2011 version. | Company account; supports attribution; anecdote not independently corroborated | BS-05, first three paragraphs | #101 |
+| CL-016 | March of Dimes dates its new mission announcement to July 22, 1958. | Institutional account; supports attribution | BS-09, “A new mission: Birth defects” | #101 |
+| CL-017 | The publisher lists a March of Dimes chapter in The Hero and the Outlaw. | Supports existence of chapter only; interpretation pending | BS-01, Chapter 18 listing | #101 |
+
 ## Rules
 
 - A source supports a specific claim, not every sentence near it.

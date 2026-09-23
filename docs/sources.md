@@ -12,6 +12,15 @@ The book will grow from original work, real objects, and reliable documentation.
 - [Carol S. Pearson: The 12-archetype system](https://carolspearson.com/about/the-pearson-12-archetype-system-human-development-and-evolution) — the theorist's account of the model and its different applications.
 - [Tversky and Kahneman: The Framing of Decisions and the Psychology of Choice](https://doi.org/10.1126/science.7455683) — an original research article on framing. Its findings do not establish the effectiveness of an imaginary shirt campaign.
 
+## Brand stories and design choices
+
+- [Mark and Pearson: The Hero and the Outlaw](https://www.mheducation.com/highered/mhp/product/hero-outlaw-building-extraordinary-brands-through-power-archetypes.html) — the publisher’s first-edition record and contents. Consult the actual passages before attributing an interpretation of a particular brand to the authors.
+- [Starbucks: The evolution of our logo](https://about.starbucks.com/history/the-evolution-of-our-logo/) — a company account connecting design changes to changing uses. Useful for asking what happens when an identifier moves from a small surface to a large one; it is not independent evidence of customer response.
+- [Starbucks: About us](https://about.starbucks.com/about-us/) — the company’s own account of its name and history. A starting point for examining cultural references in branding.
+- [March of Dimes: History](https://www.marchofdimes.org/about-us/mission/history/history-march-dimes) — the organization’s account of changing purpose over time, useful for examining continuity beyond a logo.
+
+These sources invite questions about choices and context. A company history, a branding author’s interpretation and our own shirt demonstration are different kinds of material. The [research dossier](editorial/research/brand-stories.md) records the checked sources and remaining gaps.
+
 ## Design history: context, then artifacts
 
 These institutional essays are secondary interpretation, not original Bauhaus or postmodern manifestos:
