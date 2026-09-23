@@ -10,6 +10,10 @@ This is the basic skeleton of a book, ready to develop chapter by chapter. It co
 
 The framework: **persuasion shapes the response; archetypes shape the meaning; visual language shapes the expression; deliberate prompting shapes the result.** The recurring subject is the same plain white T-shirt.
 
+## Editorial production
+
+The expanded book is being planned in layers. Read the [prospectus and 24 chapter briefs](docs/editorial/prospectus.md), [production passes](docs/editorial/production-plan.md), [supporting-material specifications](docs/editorial/supporting-materials.md), and [GitHub issue map](docs/editorial/issue-map.md). These are structural planning documents; the current reading site remains the seven-chapter manuscript until reviewed work is integrated.
+
 ## Edit the book
 
 - Start with `docs/index.md` and the Markdown files in `docs/chapters/`.
