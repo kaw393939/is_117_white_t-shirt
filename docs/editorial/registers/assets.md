@@ -25,6 +25,17 @@ Status values: `briefed`, `source needed`, `rights needed`, `in production`, `in
 | AS-019 | Campaign-to-landing-page example | 23 | Original fictional campaign | Paid/creator status and destination relationship explicit | #134; briefed |
 | AS-020 | Analytics/event walkthrough | 24 | Original fictional data | Events, people, denominators and limits stated | #135; briefed |
 
+## Additional chapter demonstrations
+
+| ID | Asset | Chapter/use | Origin | Accessibility and evidence requirement | Owner/status |
+| --- | --- | --- | --- | --- | --- |
+| AS-021 | Two production/revision paths | 2 | Original diagram | Text equivalent; no invented productivity measurements | #75; briefed |
+| AS-022 | Expert-lens comparison card | 3/Appendix B | Original sourced comparison | Attribute principles and separate hypothetical applications | #118; source needed |
+| AS-023 | Annotated LLM brief and failed response | 4 | Invented or provenance-preserved generation | Complete text and explicit status of output | #72/#77; briefed |
+| AS-024 | Client brief and existing-presence map | 5/Appendix E | Original fictional business | Text map, assumptions and unknowns; no real client data | #121; briefed |
+| AS-025 | Sitemap and before/after wireframe | 17 | Original prototype | Logical reading order; changes tied to questions or actual evidence | #90; briefed |
+| AS-026 | Test failure/fix/verification record | 21/Appendix G | Actual future execution | Text logs explained; observed failures and results only | #123/#136; in planning |
+
 ## Rights and provenance
 
 No historical image becomes publication-ready until the register records its collection or source URL, creator/title/date where available, rights or reuse status, caption, and a text alternative. Generated assets require a provenance note and must not imitate or stand in for historical evidence. External videos are optional links with publisher/title/date and a reason to watch; essential teaching remains in prose.
