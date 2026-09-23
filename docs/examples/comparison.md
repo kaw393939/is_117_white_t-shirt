@@ -6,7 +6,7 @@ order: 23
 
 > All three brands below are **invented for this book**. The product facts are identical and fictional. What diverges is everything the facts don't cover.
 
-The brief never changed: sell a plain white T-shirt — 100% cotton, 180 gsm, straight cut, made in Portugal, $28. Three teams answered it. Watch the same object become three different products without a single product fact moving.
+The shared invented brief is a white T-shirt — 100% cotton, 180 gsm, straight cut, crew neck, pre-shrunk, cut and sewn in Portugal, $28. Its care instructions are machine wash cold, line dry or tumble low. Three fictional brands present that object differently. The [shared product record](../editorial/product-record.md) distinguishes these control facts from supplemental fictional promises in the copy; those promises are not evidence of product performance.
 
 ## Side by side
 
