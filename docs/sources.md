@@ -41,6 +41,16 @@ These institutional essays are secondary interpretation, not original Bauhaus or
 
 The [visual-fundamentals research dossier](editorial/research/visual-fundamentals.md) connects these sources to original shirt comparisons, collection records, accessibility criteria and unresolved reproduction permissions.
 
+## Customers, journeys and usability
+
+- [GOV.UK: Learning about users and their needs](https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs) — service-design guidance for separating research-backed needs from assumptions.
+- [Sarah Gibbons: Journey Mapping 101](https://www.nngroup.com/articles/journey-mapping-101/) — practitioner guidance for describing a goal-oriented experience from a person's viewpoint.
+- [Google Analytics: Funnel exploration](https://support.google.com/analytics/answer/9327974?hl=en) — vendor documentation showing why sequence and entry rules matter to counts.
+- [W3C WAI: Accessibility, Usability, and Inclusion](https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/) — related concerns whose distinctions matter when evaluating a shop.
+- [Steve Krug: Downloads](https://sensible.com/download-files/) — the author's usability-testing materials; link rather than republish them.
+
+The [customer-experience dossier](editorial/research/customer-experience.md) connects these sources to explicitly hypothetical personas, a synthetic funnel and planned observation of the reference shop. It contains no customer-research findings.
+
 ## The web and design systems
 
 - [USWDS: Design tokens](https://designsystem.digital.gov/design-tokens/) — documentation from the system's maintainers.
